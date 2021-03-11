@@ -131,10 +131,6 @@ var app = new Vue({
     },
 })
 
-
-
-
-
 new Vue({
     // 事件委托
     el: '.songList',
