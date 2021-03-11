@@ -11,11 +11,12 @@ main{
     padding: 2rem;
     color: #e3b4b8;
     font-size: 2rem;
-    background-color: #7a7374;
+    background-color: #C20C0C;
     width: 1200px;
     margin: 0 auto;
     display: flex;
     justify-content: space-evenly;
+    border-bottom: 1px solid #a40011;
 }
 
 li{
@@ -23,6 +24,10 @@ li{
     border-radius: 2rem;
     margin: 0.5rem;
     padding: 0.5rem 1rem;
+}
+
+audio{
+    outline: none;
 }
 
 ul,
